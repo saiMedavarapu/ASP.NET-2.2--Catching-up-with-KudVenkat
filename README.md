@@ -56,3 +56,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILogger<
                 await context.Response.WriteAsync("MW3: response is handled and produced");
                   logger.LogInformation("MW3: Request Handled");
             });
+            
+            
+            
+ ![Alt text](image.png) 
