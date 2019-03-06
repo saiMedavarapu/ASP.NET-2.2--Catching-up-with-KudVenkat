@@ -26,3 +26,4 @@ This is the connection which acts as middlware
     defaultfilesoptions.DefaultFileNames.Clear();//Clears the previous connection
     defaultfilesoptions.DefaultFileNames.Add("foo.html");
 ---------------------------------------------------------
+ ![Alt text](SS.png) 
