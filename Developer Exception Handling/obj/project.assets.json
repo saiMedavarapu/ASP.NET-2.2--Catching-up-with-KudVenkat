@@ -11799,11 +11799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/StaticFiles/CrudEmployee.csproj",
+      "projectUniqueName": "/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Developer Exception Handling/CrudEmployee.csproj",
       "projectName": "CrudEmployee",
-      "projectPath": "/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/StaticFiles/CrudEmployee.csproj",
+      "projectPath": "/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Developer Exception Handling/CrudEmployee.csproj",
       "packagesPath": "/Users/sachin/.nuget/packages/",
-      "outputPath": "/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/StaticFiles/obj/",
+      "outputPath": "/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Developer Exception Handling/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

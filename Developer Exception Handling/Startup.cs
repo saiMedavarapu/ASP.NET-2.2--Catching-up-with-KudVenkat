@@ -23,19 +23,20 @@ namespace CrudEmployee
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+                DeveloperExceptionPageOptions developerExceptionPageOptions = new DeveloperExceptionPageOptions
+                {
+                    SourceCodeLineCount = 10
+                };
+                app.UseDeveloperExceptionPage(developerExceptionPageOptions);
             }
 //This is the connection which acts as middlware
-    FileServerOptions defaultfilesoptions = new FileServerOptions();
-    defaultfilesoptions.DefaultFilesOptions.DefaultFileNames.Clear();//Clears the previous connection
-    defaultfilesoptions.DefaultFilesOptions.DefaultFileNames.Add("foo.html");
-app.UseFileServer(defaultfilesoptions);
-            app.UseDefaultFiles();
-            app.UseStaticFiles();
-            
+
+app.UseFileServer();
+           
 
             app.Run(async (context) =>
             {
+                throw new Exception("Some Error request");
                 await context.Response.WriteAsync("Hello loli");
             });
         }
