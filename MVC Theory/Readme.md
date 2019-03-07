@@ -1,5 +1,5 @@
 
-##MVC ARCHITECTURE
+## MVC ARCHITECTURE
 
  ![Alt text](SS1.png) 
 
