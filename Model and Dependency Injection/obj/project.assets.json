@@ -11799,11 +11799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/MVC/CrudEmployee.csproj",
+      "projectUniqueName": "/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/CrudEmployee.csproj",
       "projectName": "CrudEmployee",
-      "projectPath": "/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/MVC/CrudEmployee.csproj",
+      "projectPath": "/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/CrudEmployee.csproj",
       "packagesPath": "/Users/sachin/.nuget/packages/",
-      "outputPath": "/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/MVC/obj/",
+      "outputPath": "/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

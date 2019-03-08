@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Model.Models;
+using MODEL.Models;
 
 namespace CrudEmployee
 {
@@ -18,6 +20,7 @@ namespace CrudEmployee
         {
             //services.AddMvc();
             services.AddMvcCore();
+            services.AddSingleton<IEmployeeRepository, MockEmployeeRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

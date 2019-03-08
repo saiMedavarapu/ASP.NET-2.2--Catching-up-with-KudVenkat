@@ -11,13 +11,21 @@
 // }
 
 using Microsoft.AspNetCore.Mvc;
+using MODEL.Models;
 
 namespace MVC.Controllers
 {
     public class HomeController: Controller
     {
-        public JsonResult index(){
-            return Json(new{id=1, name="Loli"});
+        private IEmployeeRepository _employeeRepository;
+      
+
+        public HomeController(IEmployeeRepository employeeRepository)
+        {
+            _employeeRepository = employeeRepository;
+        }
+        public string index(){
+          return _employeeRepository.GetEmployee(1).Name;
         }
     }
 }

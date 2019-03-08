@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using System.Collections.Generic;
 using MODEL.Models;
 
@@ -18,7 +19,7 @@ namespace Model.Models
         }
 
         public Employee GetEmployee(int ID){
-            throw new NotImplementedException();
+            return _employeeList.FirstOrDefault(e=> e.ID==ID);
         }
     }
 }

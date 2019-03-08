@@ -68,3 +68,17 @@ C:/Users/sachin/CRUDDOTNET/CrudEmployee/CrudEmployee/obj/Debug/netcoreapp2.1/Cru
 /Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/MVC/obj/Debug/netcoreapp2.1/CrudEmployee.RazorTargetAssemblyInfo.cache
 /Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/MVC/obj/Debug/netcoreapp2.1/CrudEmployee.dll
 /Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/MVC/obj/Debug/netcoreapp2.1/CrudEmployee.pdb
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/bin/Debug/netcoreapp2.1/CrudEmployee.deps.json
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/bin/Debug/netcoreapp2.1/CrudEmployee.runtimeconfig.json
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/bin/Debug/netcoreapp2.1/CrudEmployee.runtimeconfig.dev.json
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/bin/Debug/netcoreapp2.1/CrudEmployee.dll
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/bin/Debug/netcoreapp2.1/CrudEmployee.pdb
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/obj/Debug/netcoreapp2.1/CrudEmployee.csprojAssemblyReference.cache
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/obj/Debug/netcoreapp2.1/CrudEmployee.csproj.CoreCompileInputs.cache
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/obj/Debug/netcoreapp2.1/CrudEmployee.RazorAssemblyInfo.cache
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/obj/Debug/netcoreapp2.1/CrudEmployee.RazorAssemblyInfo.cs
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/obj/Debug/netcoreapp2.1/CrudEmployee.AssemblyInfoInputs.cache
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/obj/Debug/netcoreapp2.1/CrudEmployee.AssemblyInfo.cs
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/obj/Debug/netcoreapp2.1/CrudEmployee.RazorTargetAssemblyInfo.cache
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/obj/Debug/netcoreapp2.1/CrudEmployee.dll
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Model and Dependency Injection/obj/Debug/netcoreapp2.1/CrudEmployee.pdb
