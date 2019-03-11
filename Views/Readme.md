@@ -4,9 +4,15 @@ If we call any view method and return a view object without creating the .cshtml
 ------------------------------
 public ViewResult Details(){
             Employee model = _employeeRepository.GetEmployee(1);
-            //return View(model);----> this for naming the same cshtml file as view name
-            //return View("test");----> this for other name but inside the views/home folder.
-            return View("Myviews/test.cshtml");//----> this is for the relative path of other view folder.
+           
+           
+           //return View(model);----> this for naming the same cshtml file as view name
+          
+          
+          //return View("test");----> this for other name but inside the views/home folder.
+           
+           
+           return View("Myviews/test.cshtml");//----> this is for the relative path of other view folder.
         }
     }
 ------------------------------------------------------
