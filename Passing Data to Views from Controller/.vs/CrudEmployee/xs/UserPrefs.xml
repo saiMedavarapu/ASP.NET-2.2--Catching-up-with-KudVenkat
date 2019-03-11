@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{08904EE8-8A2C-4B2B-84AA-756BF1D0BD9D}|Default">
+  <MonoDevelop.Ide.ItemProperties.CrudEmployee PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="views/Home/Details.cshtml">
+    <Files>
+      <File FileName="Controllers/HomeControllers.cs" Line="1" Column="1" />
+      <File FileName="views/Home/Details.cshtml" Line="1" Column="135" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

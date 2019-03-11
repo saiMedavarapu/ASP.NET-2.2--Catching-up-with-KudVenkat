@@ -37,7 +37,7 @@ namespace MVC.Controllers
             //ViewData["PageTitle"] = "Employee Details";
             ViewBag.Employee = model;
             ViewBag.PageTitle = "Page Title";
-            return View();
+            return View(model);
         }
     }
 }

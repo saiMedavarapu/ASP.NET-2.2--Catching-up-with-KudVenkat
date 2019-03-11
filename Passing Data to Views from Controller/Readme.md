@@ -22,3 +22,9 @@ We have to create theproperty with Viewbag tag.
 ## WITH VIEWDATA WE USE STRING KEY ENTITY DATA WHERE AS WITH VIEW BAG WE USE DYNAMIC PROPS.
 
 ![Alt text](SS1.png) 
+
+## Working with Strogly Typed Views
+
+While returning the object we can return the model with vieew and use it to display the data in the object.
+
+![Alt text](SS2.png) 
