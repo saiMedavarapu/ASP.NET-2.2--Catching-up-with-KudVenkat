@@ -19,7 +19,7 @@ namespace CrudEmployee
         public void ConfigureServices(IServiceCollection services)
         {
             //services.AddMvc();
-            services.AddMvcCore();
+            services.AddMvc();
             services.AddSingleton<IEmployeeRepository, MockEmployeeRepository>();
         }
 

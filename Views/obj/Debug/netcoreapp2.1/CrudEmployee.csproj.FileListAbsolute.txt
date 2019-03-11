@@ -96,3 +96,14 @@ C:/Users/sachin/CRUDDOTNET/CrudEmployee/CrudEmployee/obj/Debug/netcoreapp2.1/Cru
 /Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Views/obj/Debug/netcoreapp2.1/CrudEmployee.RazorTargetAssemblyInfo.cache
 /Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Views/obj/Debug/netcoreapp2.1/CrudEmployee.dll
 /Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Views/obj/Debug/netcoreapp2.1/CrudEmployee.pdb
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Views/bin/Debug/netcoreapp2.1/CrudEmployee.Views.dll
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Views/bin/Debug/netcoreapp2.1/CrudEmployee.Views.pdb
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Views/obj/Debug/netcoreapp2.1/CrudEmployee.TagHelpers.input.cache
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Views/obj/Debug/netcoreapp2.1/CrudEmployee.TagHelpers.output.cache
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Views/obj/Debug/netcoreapp2.1/CrudEmployee.RazorCoreGenerate.cache
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Views/obj/Debug/netcoreapp2.1/Razor/views/Home/Details.g.cshtml.cs
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Views/obj/Debug/netcoreapp2.1/CrudEmployee.RazorTargetAssemblyInfo.cs
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Views/obj/Debug/netcoreapp2.1/CrudEmployee.Views.pdb
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Views/obj/Debug/netcoreapp2.1/CrudEmployee.csproj.CopyComplete
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Views/obj/Debug/netcoreapp2.1/Razor/views/Home/test.g.cshtml.cs
+/Users/sachin/Desktop/GitHub/ASP.NET-2.2--Catching-up-with-KudVenkat/Views/obj/Debug/netcoreapp2.1/Razor/Myviews/test.g.cshtml.cs
