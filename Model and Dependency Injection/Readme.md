@@ -29,13 +29,13 @@ public class MockEmployeeRepository: IEmployeeRepository
 
 When we inject interface in constructor it gives us error in runtime.
 
-public HomeController(IEmployeeRepository employeeRepository)//Constructor injection.
+`public HomeController(IEmployeeRepository employeeRepository)//Constructor injection.
         {
             _employeeRepository = employeeRepository;
         }
         public string index(){
           return _employeeRepository.GetEmployee(1).Name;
-        }
+        }`
 --------------------------------------------------------------
 To over come this issue we have to use dependency injection.
 
